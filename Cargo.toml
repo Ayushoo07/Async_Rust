@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "async_read_file",
+    "condvar",
+    "single_threaded_runtime",
+    "multi_threaded_runtime_1", "sharing_data_futures", "async_logging",
+    # Add other package directories here
+]
